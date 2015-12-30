@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "thebutton",
+    "packageName": "com.thebutton",
+    "packageFolder": "com/thebutton",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "61293189b3e2ce7597e4144afdd787c78419e6cc",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
